@@ -1,5 +1,5 @@
 # Python Kotlin Runner
-A [`kotlin`](https://kotlinlang.org) file runner I wrote in [`Python`](https://python.org) for running kotlin files in Windows [Geany 1.37.1](https://github.com/geany/geany/releases/tag/1.37.1) because despite the tutorials and closed issue on [Geany](https://github.com/geany/geany/issues/1581#issuecomment-405182480) for the same, I was not able to get a working solution.
+A [`kotlin`](https://kotlinlang.org) file runner I wrote in [`Python`](https://python.org) for running kotlin files in Windows [Geany 1.37.1](https://github.com/geany/geany/releases/tag/1.37.1) because despite the tutorials and closed issue on [Geany](https://github.com/geany/geany/issues/1581#issuecomment-405221149) for the same, I was not able to get a working solution.
 
 <hr>
 
