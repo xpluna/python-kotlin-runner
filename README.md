@@ -19,5 +19,5 @@ A [`kotlin`](https://kotlinlang.org) file runner I wrote in [`Python`](https://p
 
 <hr>
 
-## This can be extended further with a while loop if you want to run until you don't want to quit.
+## This can be extended further with a while loop if you want to run unless you quit.
 ## And even further with `threading` if you want to run multiple kotlin files at once.
