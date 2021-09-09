@@ -3,7 +3,7 @@ A [`kotlin`](https://kotlinlang.org) file runner I wrote in [`Python`](https://p
 
 <hr>
 
-## You need [kotlinc](https://github.com/JetBrains/kotlin/releases/tag/v1.2.21) and [JDK8]()
+## You need [kotlinc](https://github.com/JetBrains/kotlin/releases/tag/v1.2.21) and [JDK8](https://www.oracle.com/in/java/technologies/javase/javase-jdk8-downloads.html)
 
 <ul>
   <li>Copy the extracted kotlinc to any directory</li>
